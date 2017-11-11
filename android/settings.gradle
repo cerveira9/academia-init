@@ -1,0 +1,3 @@
+rootProject.name = 'academia_init'
+
+include ':app'
